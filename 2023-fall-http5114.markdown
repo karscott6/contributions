@@ -6,15 +6,19 @@
 
 | | Name | Profile | 
 | - | - | - |
+| ![Deep Patel](images/Deep291998.jpg) | First Last | [Deep Patel](students/Deep291998.markdown) |
+| ![First Last](images/codeadamca.png)   | First Last    | [firstlast](students/firstlast)              |
+| ![Milin Vaniyawala](images/milinvaniyawala.png) | Milin Vaniyawala | [milinvaniyawala](students/milinvaniyawala.markdown) |
+| ![Kaverappa K U](images/Kaverappa.png) | Kaverappa K U | [KaverappaKU](students/kaverappaKU.markdown) |
+| ![Ashim Shrestha](images/ashimshrestha.jpg) | Ashim Shrestha | [ashimshrestha](students/AshimStha.markdown) |
 | ![First Last](images/codeadamca.png) | First Last | [firstlast](students/firstlast) |
-| ![Kyle Scott](images/karscott6.jpg) | Kyle Scott | [karscott6](students/karscott6.markdown) |
 
 ### Faculty
 
-| | Name | Profile | 
-| - | - | - |
+|                                       | Name        | Profile                          |
+| ------------------------------------- | ----------- | -------------------------------- |
 | ![Adam Thomas](images/codeadamca.png) | Adam Thomas | [codeadamca](faculty/codeadamca) |
-
+| ![Kyle Scott](images/karscott6.jpg) | Kyle Scott | [karscott6](students/karscott6.markdown) |
 
 [&#10132; Back to Class List](/)
 
